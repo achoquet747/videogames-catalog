@@ -1,0 +1,8 @@
+.videogames-list .card {
+    height: 100%;
+}
+
+.videogames-list .card img {
+    height: 200px;
+    object-fit: cover;
+}
